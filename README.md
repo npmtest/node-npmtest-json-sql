@@ -1,6 +1,6 @@
 # npmtest-json-sql
 
-#### test coverage for  [json-sql (v0.3.10)](https://github.com/2do2go/json-sql#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-json-sql.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-json-sql) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-json-sql.svg)](https://travis-ci.org/npmtest/node-npmtest-json-sql)
+#### basic test coverage for  [json-sql (v0.3.10)](https://github.com/2do2go/json-sql#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-json-sql.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-json-sql) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-json-sql.svg)](https://travis-ci.org/npmtest/node-npmtest-json-sql)
 
 #### node.js json to sql queries mapper
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-json-sql/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-json-sql/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-json-sql/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-json-sql/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-json-sql/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-json-sql/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-json-sql/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-json-sql/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-json-sql/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-json-sql/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-json-sql/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-json-sql/build/coverage.html/index.html)
 
@@ -82,7 +82,8 @@
         "url": "git+ssh://git@github.com/2do2go/json-sql.git"
     },
     "scripts": {},
-    "version": "0.3.10"
+    "version": "0.3.10",
+    "bin": {}
 }
 ```
 
